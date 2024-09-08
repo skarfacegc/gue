@@ -34,10 +34,10 @@
     "execa": "^0.8.0",
     "globby": "^6.1.0",
     "handlebars": "^4.0.10",
-    "liftoff": "^2.3.0",
+    "liftoff": "^4.0.0",
     "lodash.uniq": "^4.5.0",
     "minimist": "^1.2.0",
-    "multimatch": "^2.1.0",
+    "multimatch": "^7.0.0",
     "pretty-ms": "^3.0.0",
     "trim-newlines": "^2.0.0"
   },
